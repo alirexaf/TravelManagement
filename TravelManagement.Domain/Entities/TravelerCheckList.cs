@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using TravelManagement.Domain.ValueObjects;
+using TravelManagement.Shared.Abstractions.Domain;
 
 namespace TravelManagement.Domain.Entities
 {
-    public class TravelerCheckList
+    public class TravelerCheckList : AggregateRoot<TravelerCheckListId>
     {
         public TravelerCheckListId Id { get; private set; }
         private TravelerCheckListName _name;
