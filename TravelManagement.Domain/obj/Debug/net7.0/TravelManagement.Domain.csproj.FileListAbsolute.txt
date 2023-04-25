@@ -1,0 +1,15 @@
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\bin\Debug\net7.0\TravelManagement.Domain.deps.json
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\bin\Debug\net7.0\TravelManagement.Domain.dll
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\bin\Debug\net7.0\TravelManagement.Domain.pdb
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\bin\Debug\net7.0\TravelManagement.Shared.Abstractions.dll
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\bin\Debug\net7.0\TravelManagement.Shared.Abstractions.pdb
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\TravelManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\TravelManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\TravelManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\TravelManagement.Domain.AssemblyInfo.cs
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\TravelManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\TravelManagement.Domain.csproj.CopyComplete
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\TravelManagement.Domain.dll
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\refint\TravelManagement.Domain.dll
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\TravelManagement.Domain.pdb
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Domain\obj\Debug\net7.0\ref\TravelManagement.Domain.dll

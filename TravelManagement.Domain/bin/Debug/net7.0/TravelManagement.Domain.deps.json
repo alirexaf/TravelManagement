@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TravelManagement.Domain/1.0.0": {
+        "dependencies": {
+          "TravelManagement.Shared.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "TravelManagement.Domain.dll": {}
+        }
+      },
+      "TravelManagement.Shared.Abstractions/1.0.0": {
+        "runtime": {
+          "TravelManagement.Shared.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TravelManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TravelManagement.Shared.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

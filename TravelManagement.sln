@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelManagement.Domain", "TravelManagement.Domain\TravelManagement.Domain.csproj", "{AF6C8AB5-F2B7-4EF8-84DA-93A89A9AC4F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{8D907658-40F7-46D3-BD3E-52CA5A955BEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelManagement.Shared.Abstractions", "TravelManagement.Shared.Abstractions\TravelManagement.Shared.Abstractions.csproj", "{5FB279D9-3F3D-4E0D-8D3C-A7546CCDB093}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF6C8AB5-F2B7-4EF8-84DA-93A89A9AC4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6C8AB5-F2B7-4EF8-84DA-93A89A9AC4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6C8AB5-F2B7-4EF8-84DA-93A89A9AC4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6C8AB5-F2B7-4EF8-84DA-93A89A9AC4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FB279D9-3F3D-4E0D-8D3C-A7546CCDB093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FB279D9-3F3D-4E0D-8D3C-A7546CCDB093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FB279D9-3F3D-4E0D-8D3C-A7546CCDB093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FB279D9-3F3D-4E0D-8D3C-A7546CCDB093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5FB279D9-3F3D-4E0D-8D3C-A7546CCDB093} = {8D907658-40F7-46D3-BD3E-52CA5A955BEA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7AD237C-41A8-48B8-A412-9C3D2853A5D9}
+	EndGlobalSection
+EndGlobal

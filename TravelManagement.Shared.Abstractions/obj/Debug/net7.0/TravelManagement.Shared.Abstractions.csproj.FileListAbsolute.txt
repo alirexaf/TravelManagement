@@ -1,0 +1,12 @@
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\bin\Debug\net7.0\TravelManagement.Shared.Abstractions.deps.json
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\bin\Debug\net7.0\TravelManagement.Shared.Abstractions.dll
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\bin\Debug\net7.0\TravelManagement.Shared.Abstractions.pdb
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\TravelManagement.Shared.Abstractions.csproj.AssemblyReference.cache
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\TravelManagement.Shared.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\TravelManagement.Shared.Abstractions.AssemblyInfoInputs.cache
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\TravelManagement.Shared.Abstractions.AssemblyInfo.cs
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\TravelManagement.Shared.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\TravelManagement.Shared.Abstractions.dll
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\refint\TravelManagement.Shared.Abstractions.dll
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\TravelManagement.Shared.Abstractions.pdb
+C:\Users\Alirexa\Downloads\Repos\TravelManagement\TravelManagement.Shared.Abstractions\obj\Debug\net7.0\ref\TravelManagement.Shared.Abstractions.dll
