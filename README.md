@@ -1,4 +1,4 @@
-# Project Name
+# Travel Management
 
 This project provides an implementation of Clean Architecture and CQRS on the .NET Core platform. The goal of this project is to demonstrate how to use these patterns and techniques to build maintainable, scalable, and testable applications.
 
